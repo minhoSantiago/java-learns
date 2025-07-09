@@ -1,4 +1,4 @@
-package academia.devdojo.maratonajava.introducao;
+package exercicios;
 /*
 Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte mensagem:
 
