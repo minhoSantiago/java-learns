@@ -26,7 +26,7 @@ This repository contains my Java learning progress, organized through lessons an
 ---
 
 ## 🚀 Tecnologias | Technologies
-- Java 17+
+- Java
 - IntelliJ IDEA / VS Code / NetBeans / Eclipse
 - Git & GitHub
 
@@ -42,6 +42,6 @@ I'm a programming student focused on learning Java deeply through structured and
 
 ## 📬 Contato | Contact
 **Minho**  
-[GitHub](https://github.com/drMinho123) — atualize esse link com o teu!
+[GitHub](https://github.com/drMinho123)
 
 ---
