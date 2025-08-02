@@ -43,5 +43,7 @@ I'm a programming student focused on learning Java deeply through structured and
 ## 📬 Contato | Contact
 **Minho**  
 [GitHub](https://github.com/drMinho123)
+[LinkedIn](https://www.linkedin.com/in/r%C3%B4molo-santiago-miguez-026146238/)
+[Email](romolomiguez.santiago@gmail.com)
 
 ---
