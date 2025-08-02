@@ -27,7 +27,7 @@ This repository contains my Java learning progress, organized through lessons an
 
 ## 🚀 Tecnologias | Technologies
 - Java
-- IntelliJ IDEA / VS Code / NetBeans / Eclipse
+- IntelliJ IDEA
 - Git & GitHub
 
 ---
