@@ -20,7 +20,37 @@ public class Aula05ArraysExerciciosIA {
             if (i % 2 != 0){
                 System.out.println(numeros[i]);
             }
+
+           //Guarde 5 nomes em um array e exiba-os na ordem inversa.
+
+            String[] nomes = new String[]{"Monica","Cebolinha","Cascão","Magali","Franjinha"};
+            for (int j = nomes.length - 1; j >= 0; j--) {
+                System.out.println(nomes[j]);
+
+            }
+            //Calculo de Média de 7 números usando foreach
+            double soma = 0.0;
+            double[] notas = new double[]{6,7,4,9,10,4,9};
+            for (double nota : notas) {
+                soma +=nota;
+            }
+            System.out.println((soma/notas.length));
         }
+        //Armazene 10 números e mostre qual é o maior e o menor.
+        int[] number = new int[]{1, 2, 23, 4, 15, 6, 7, 68, 9, 10};
+        int maior = number[0];
+        int menor = number[0];
+        for (int i : number) {
+            if (i > maior) {
+                maior = i;
+            } else if (i < menor) {
+                menor = i;
+            }
+        }
+        System.out.println("Maior número: " + maior);
+        System.out.println("Menor número: " + menor);
 
     }
 }
+
+
