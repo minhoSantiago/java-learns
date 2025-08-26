@@ -11,7 +11,6 @@ public class DiaUtilouFDS {
             case 7:
                 System.out.println("Final de Semana!!!!");
                 break;
-
             case 2:
             case 3:
             case 4:
