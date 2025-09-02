@@ -4,7 +4,7 @@ public class Aula05ArraysExerciciosIA {
     public static void main(String[] args) {
         //Crie um array com 10 números inteiros e mostre apenas os números pares
 
-        int [] numeros = new int[10];
+      /*  int [] numeros = new int[10];
         numeros[0] = 1;
         numeros[1] = 2;
         numeros[2] = 3;
@@ -35,7 +35,7 @@ public class Aula05ArraysExerciciosIA {
                 soma +=nota;
             }
             System.out.println((soma/notas.length));
-        }
+        }*/
         //Armazene 10 números e mostre qual é o maior e o menor.
         int[] number = new int[]{1, 2, 23, 4, 15, 6, 7, 68, 9, 10};
         int maior = number[0];
