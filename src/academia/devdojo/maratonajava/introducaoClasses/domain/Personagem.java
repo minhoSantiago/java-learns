@@ -1,4 +1,4 @@
-package academia.devdojo.maratonajava.introducaoClasses;
+package academia.devdojo.maratonajava.introducaoClasses.domain;
 
 public class Personagem {
     public String nome;

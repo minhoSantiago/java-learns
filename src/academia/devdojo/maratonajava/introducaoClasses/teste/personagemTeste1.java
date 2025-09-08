@@ -2,7 +2,7 @@ package academia.devdojo.maratonajava.introducaoClasses.teste;
 
 import academia.devdojo.maratonajava.introducaoClasses.domain.Personagem;
 
-public class pessoaTeste01 {
+public class personagemTeste1 {
     public static void main(String[] args) {
         Personagem giomey = new Personagem();
             giomey.nome = "Gyomei Himejima";
