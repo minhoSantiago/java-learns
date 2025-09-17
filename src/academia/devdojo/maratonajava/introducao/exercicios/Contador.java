@@ -1,4 +1,4 @@
-package exercicios;
+package academia.devdojo.maratonajava.introducao.exercicios;
 
 public class Contador {
     public static void main(String[] args) {

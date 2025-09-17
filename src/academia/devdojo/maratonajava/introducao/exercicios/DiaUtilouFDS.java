@@ -1,4 +1,4 @@
-package exercicios;
+package academia.devdojo.maratonajava.introducao.exercicios;
 
 public class DiaUtilouFDS {
     public static void main(String[] args) {

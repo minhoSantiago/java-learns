@@ -1,4 +1,4 @@
-package exercicios;
+package academia.devdojo.maratonajava.introducao.exercicios;
 
 public class Aula05ArraysExerciciosIA {
     public static void main(String[] args) {

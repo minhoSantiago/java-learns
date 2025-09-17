@@ -1,0 +1,5 @@
+Método ou te retorna algo ou te retorna nada
+
+- Retornar é diferente de Sair.
+Retornar é ele calucular e te retornar o valor
+Sair é ele calcular e não retornar, ele só imprime no console. (void)
